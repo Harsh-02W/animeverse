@@ -10,4 +10,4 @@ A single-page anime discovery website with animated UI, theme switching, search,
 - Watchlist and detail modal
 
 ## Use
-Open `index.html` or `index3.html` in a browser to view the site.
+Open `index.html` in a browser to view the site.
